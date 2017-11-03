@@ -1,0 +1,140 @@
+{
+  "comment": "Initial contents for the BowFolios database. For development purposes only.",
+  "collections": [
+    {
+      "name": "InterestCollection",
+      "contents": [
+        {
+          "name": "ICS 311 Algorithms",
+          "description": ""
+        },
+        {
+          "name": "ICS 314 Software Engineering",
+          "description": ""
+        },
+        {
+          "name": "Mobile Networks",
+          "description": ""
+        },
+        {
+          "name": "Calculus ",
+          "description": ""
+        },
+        {
+          "name": "Algebra",
+          "description": ""
+        },
+        {
+          "name": "Physics",
+          "description": ""
+        },
+        {
+          "name": "Chemistry",
+          "description": ""
+        },
+        {
+          "name": "Sociology ",
+          "description": ""
+        },
+        {
+          "name": "General Computer Science",
+          "description": ""
+        },
+        {
+          "name": "Psychology",
+          "description": ""
+        },
+        {
+          "name": "Java",
+          "description": ""
+        },
+        {
+          "name": "C",
+          "description": ""
+        },
+        {
+          "name": "C++",
+          "description": ""
+        },
+
+        {
+          "name": "Cybersecurity",
+          "description": ""
+        },
+
+        {
+          "name": "Computer Vision",
+          "description": ""
+        },
+        {
+          "name": "Evolutionary Computation",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "name": "ProfileCollection",
+      "contents": [
+        {
+          "firstName": "Lee",
+          "lastName": "Altenberg",
+          "username": "altenber",
+          "bio": "I am a 20th year student still trying to make it out of WODS and pass ICS 314",
+          "interests": [
+            "Evolutionary Computation", "Cybersecurity", "C++"
+          ],
+          "title": "Associate Professor, Information and Computer Sciences",
+          "picture": "/images/altenberg.jpg"
+        },
+        {
+          "firstName": "Kyungim",
+          "lastName": "Baek",
+          "username": "baek",
+          "bio": "I am a tutor in CS and also attending at the University of Hawaii.",
+          "interests": [
+            "Computer Vision", "Psychology", "Java"
+          ],
+          "title": "Associate Professor, Information and Computer Sciences",
+          "picture": "/images/baek.jpg"
+        },
+        {
+          "firstName": "Edo",
+          "lastName": "Biagioni",
+          "username": "esb",
+          "bio": "I am a student at UH Manoa majoring in Chemistry",
+          "interests": [
+            "Mobile Networks",
+            "ICS 311"
+          ],
+          "title": "I am a student at KCC ",
+          "picture": "/images/biagioni.jpg"
+        },
+        {
+          "firstName": "Kim",
+          "lastName": "Binsted",
+          "username": "binsted",
+          "bio": "I am a student at UH Manoa",
+          "interests": [
+            "C++",
+            "Chemistry"
+          ],
+          "title": "Associate Professor, Information and Computer Sciences",
+          "picture": "/images/binsted.jpg"
+        },
+        {
+          "firstName": "Henri",
+          "lastName": "Casanova",
+          "username": "henric",
+          "github": "henricasanova",
+          "bio": "I am a student at WCC",
+          "interests": [
+            "Java",
+            "Sociology"
+          ],
+          "title": "Professor, Information and Computer Sciences",
+          "picture": "/images/casanova.jpg"
+        }
+      ]
+    }
+  ]
+}
